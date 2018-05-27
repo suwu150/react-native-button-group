@@ -1,0 +1,24 @@
+{
+  "name": "react-native-button-group",
+  "version": "0.0.1",
+  "description": "'button group'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suwu150/react-native-button-group.git"
+  },
+  "keywords": [
+    "react-native",
+    "component",
+    "react-native"
+  ],
+  "author": "jkwu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suwu150/react-native-button-group/issues"
+  },
+  "homepage": "https://github.com/suwu150/react-native-button-group#readme"
+}
