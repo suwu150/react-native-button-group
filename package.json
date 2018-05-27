@@ -1,6 +1,6 @@
 {
   "name": "react-native-button-group",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "'button group'",
   "main": "index.js",
   "scripts": {
