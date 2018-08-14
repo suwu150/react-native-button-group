@@ -7,7 +7,7 @@ A group of buttons that can be added to the button. This group can be used to co
    
 The final rendering
 ----
-![The final rendering](https://github.com/suwu150/static-resource/blob/master/images/react-native-custome-buttongroup-image.gif?raw=true)
+![The final rendering](https://github.com/suwu150/react-native-button-group/blob/master/react-native-custome-buttongroup-image.gif?raw=true)
 
 
 Installation:  
